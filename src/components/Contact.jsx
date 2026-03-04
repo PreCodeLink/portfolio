@@ -27,7 +27,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="https://github.com/Garakuwa0q"
+            href="https://github.com/PreCodeLink"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-slate-700 hover:border-blue-500 text-slate-300 hover:text-white px-6 py-3 rounded-lg transition"
@@ -57,5 +57,6 @@ const Contact = () => {
     </section>
   );
 };
+
 
 export default Contact;
