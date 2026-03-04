@@ -36,7 +36,7 @@ const Contact = () => {
           </a>
 
           <a
-            href="https://linkedin.com/in/Garkuwa"
+             href="https://www.linkedin.com/in/bashir-lawal-81000a3b5?originalSubdomain=ng"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-slate-700 hover:border-blue-500 text-slate-300 hover:text-white px-6 py-3 rounded-lg transition"
@@ -60,3 +60,4 @@ const Contact = () => {
 
 
 export default Contact;
+
